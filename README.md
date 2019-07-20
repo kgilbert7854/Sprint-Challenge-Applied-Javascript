@@ -30,13 +30,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+An API that allows programs and scripts like JavaScript to dynamically access and update structure, content, and style of a page. It is language neutral. 
+
+
 2. What is an event?
+
+An event is something that interacts with the webpage. i.e click, mouseover etc..
 
 3. What is an event listener?
 
+An evenet listener looks out for the event to happen and then triggers a callback function.
+
 4. Why would we convert a NodeList into an Array?
 
+So that the developer would have access to array methods.
+
 5. What is a component?
+
+They are building blocks to modern application development. Being able to use HTML, CSS, and JS in a reusable way opens up new possibilities for web developers.
+
 
 ### Git Set up
 
